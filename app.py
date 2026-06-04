@@ -1,15 +1,15 @@
 import os
-from dotenv import load_dotenv
 
-# 1. Load the secrets from the hidden .env file
-load_dotenv()
+target_folder = ".."
 
-# 2. Grab the secret using the 'os' library
-password = os.getenv("MY_SECRET_KEY")
-user=os.getenv("last_name")
-
-# 3. Print it out to prove Python found it
-print("---------------------------------")
-value = f"Success! your last name is :{user} The secret password is: {password}"
-print(value)
-print("---------------------------------")
+if os.path.exists(target_folder):
+    # os.listdir returns a list like ['app.py', '.env']
+    all_files = os.listdir(target_folder)
+    
+    print("\n--- Scanning Workspace ---")
+    # We loop through the list one file at a time
+    for file_name in all_files:
+        print(f"Found file: {file_name}")
+        
+else:
+    print("Error: That folder does not exist.")
