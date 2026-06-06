@@ -1,0 +1,18 @@
+invoice.pdfitem.pdf moved to PDFFilesinvoice.pdfitem.moved to OthersNew Bitmap image.bmpitem.moved to OthersNew Text Document.txtitem.txt moved to TextFilesNew Text Document.txtitem.moved to Othersnotes.txtitem.txt moved to TextFilesnotes.txtitem.moved to Othersphoto.pngitem.png moved to imagefilestodo.txtitem.txt moved to TextFilestodo.txtitem.moved to Othersunknown_file.xyzitem.moved to Othersinvoice.pdf item.pdf moved to PDFFiles
+invoice.pdf item.moved to Others
+New Bitmap image.bmp item.moved to Others
+New Text Document.txt item.txt moved to TextFiles
+New Text Document.txt item.moved to Others
+notes.txt item.txt moved to TextFiles
+notes.txt item.moved to Others
+photo.png item.png moved to imagefiles
+todo.txt item.txt moved to TextFiles
+todo.txt item.moved to Others
+unknown_file.xyz item.moved to Others
+invoice.pdf item.pdf moved to PDFFiles
+New Bitmap image.bmp item.moved to Others
+New Text Document.txt item.txt moved to TextFiles
+notes.txt item.txt moved to TextFiles
+photo.png item.png moved to imagefiles
+todo.txt item.txt moved to TextFiles
+unknown_file.xyz item.moved to Others
